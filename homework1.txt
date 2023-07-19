@@ -9,4 +9,5 @@ HW flow:
 7. Create an any file (eg homework1.txt)
 8. git commit -m "First commit"
 9. git commit -m "Updated the homework1 file"
-10. git push origin feature:master
+10. git push -u origin main
+11. git merge development
