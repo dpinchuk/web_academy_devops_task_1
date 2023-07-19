@@ -1,0 +1,12 @@
+HW flow:
+
+1. Create a repository in the GIT
+2. Configure repository in the local machine
+3. git clone <the repo>
+4. git checkout -b master
+5. git checkout -b development
+6. git checkout -b feature
+7. Create an any file (eg homework1.txt)
+8. git commit -m "First commit"
+9. git commit -m "Updated the homework1 file"
+10. git push origin feature:master
